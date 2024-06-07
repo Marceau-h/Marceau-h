@@ -6,7 +6,8 @@ Researsh Assistant
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [contact@marceau-h.fr](mailto:contact@marceau-h.fr)
-* 
+
+
 <!--
 **Marceau-h/Marceau-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
