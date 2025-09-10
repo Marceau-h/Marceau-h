@@ -1,7 +1,8 @@
 Hi, <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->my name is Marceau
 ===============================================================================================================================
 
-Research Assistant
+PhD Candidate in Natural Language Processing (NLP)
+
 ------------------
 
 * 🌍  I'm based in France
